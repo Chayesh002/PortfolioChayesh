@@ -37,7 +37,7 @@ const projects = [
         title: 'Project 1',
         description: 'Description of project 1',
         image: 'https://via.placeholder.com/300x200',
-        link: '#'
+        link: 'https://google.com'
     },
     {
         title: 'Project 2',
