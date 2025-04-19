@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "https://chayesh002.github.io/PortfolioChayesh/",
+            "request": "launch",
+            "url": "https://chayesh002.github.io/PortfolioChayesh/"
+        }
+    ]
+}
