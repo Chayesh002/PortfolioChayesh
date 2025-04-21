@@ -36,19 +36,19 @@ const projects = [
     {
         title: 'Project 1',
         description: 'Description of project 1',
-        image: 'https://via.placeholder.com/300x200',
+        image: 'Profile Picture',
         link: 'https://google.com'
     },
     {
         title: 'Project 2',
         description: 'Description of project 2',
-        image: 'https://via.placeholder.com/300x200',
+        image: 'Profile Picture',
         link: '#'
     },
     {
         title: 'Project 3',
         description: 'Description of project 3',
-        image: 'https://via.placeholder.com/300x200',
+        image: 'Profile Picture',
         link: '#'
     }
 ];
