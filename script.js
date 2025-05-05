@@ -67,6 +67,13 @@ const projects = [
         media: 'harmony-project5.mp4',
         type: 'video',
         link: '#'
+    },
+          {
+        title: 'AR Project',
+        description: 'This AR experience uses the devices camera to blend the real world with digital content. When the user taps the screen, a branded logo appears seamlessly in the environment. The project demonstrates interactive touch-based placement in AR.',
+        media: 'harmony-project6.mp4',
+        type: 'video',
+        link: '#'
     }
 ];
 
