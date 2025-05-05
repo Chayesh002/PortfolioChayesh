@@ -38,49 +38,49 @@ const projects = [
         description: 'This project involved performing comprehensive maintenance on a Toyota bakkie to ensure optimal performance and reliability. Key tasks included diagnosing mechanical issues, conducting routine servicing, and implementing preventative measures to extend the vehicle’s lifespan. The project showcased practical skills in automotive care, attention to detail, and a methodical approach to problem-solving.',
         media: 'harmony-project.mp4',
         type: 'video',
-        //link: 'https://google.com'
+        
     },
     {
         title: ' Shock Tube Project – Blast Wave Simulation ',
         description: 'This project involved the use of a shock tube to replicate and study the effects of explosive blast waves in a controlled environment. Key responsibilities included preparing the experimental setup, triggering high-pressure shock waves, and analysing material responses under dynamic loading. The project highlighted expertise in explosive testing, safety compliance, and data analysis related to high-speed shock phenomena.',
         media: 'harmony-project2.mp4',
         type: 'video',
-        //link: '#'
+       
     },
     {
         title: 'Sandvik POC Project – VR Training SimulationC',
         description: 'This VR-based proof of concept was developed for Sandvik to simulate heavy machinery operations in a virtual mining environment. The interactive experience allowed users to engage with complex equipment procedures for training, safety demonstration, and operational planning. Built using Unity, the project showcased immersive 3D design, realistic physics, and intuitive user interactions—supporting Sandvik’s push toward innovative, tech-driven workforce development.',
         media: 'harmony-project3.mp4',
         type: 'video',
-        //link: '#'
+     
     },
     {
         title: ' WebGL Emulator Project',
         description: 'This project is a Unity-based WebGL launcher designed to load multiple applications from a single interface. It uses a JSON configuration file to dynamically display buttons that launch individual WebGL builds. The system is lightweight, modular, and ideal for offline use, such as on MoodleBox devices. It demonstrates effective use of Unity UI, JSON parsing, and WebGL deployment strategies for scalable content delivery.',
         media: 'harmony-project4.mp4',
         type: 'video',
-        //link: '#'
+      
     },
       {
         title: 'Custom Unity Package',
         description: 'Developed a modular Unity package featuring the mining vehicle, structured for Git-based integration via Unity Package Manager (UPM). The package includes a clean prefab, optimised FBX model, physically-based materials, and all texture dependencies. Designed for industrial simulations, it supports scalable and plug-and-play deployment in Unity projects, demonstrating strong skills in asset packaging, prefab structuring, and UPM compatibility.',
         media: 'harmony-project5.mp4',
         type: 'video',
-        //link: '#'
+       
     },
           {
         title: 'AR Project',
         description: 'This AR experience uses the devices camera to blend the real world with digital content. When the user taps the screen, a branded logo appears seamlessly in the environment. The project demonstrates interactive touch-based placement in AR.',
         media: 'harmony-project6.mp4',
         type: 'video',
-        //link: '#'
+      
     },
               {
         title: 'Water Simulation Sandbox',
         description: 'A small interactive scene where cubes drop into water, creating realistic splashes and ripples. Users can tweak everything from the time of day and water depth to reflection, distortion, and even the colour of the water — all through a simple control panel. A fun way to explore real-time physics and visual effects!',
         media: 'harmony-project7.mp4',
         type: 'video',
-        //link: '#'
+        
     },
               {
         title: 'Free-Roam Ocean Experience',
