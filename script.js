@@ -36,7 +36,7 @@ const projects = [
     {
         title: 'Harmony',
         description: 'Description of project 1',
-        image: 'Profile Picture',
+        image: 'Profile Picture.jpeg',
         link: 'https://google.com'
     },
     {
