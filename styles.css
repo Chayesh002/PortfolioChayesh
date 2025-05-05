@@ -79,6 +79,14 @@ body {
 }
 
 /* About section */
+.about-section {
+  background-image: url('images/background.jpg'); /* or use a full URL */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 60px 20px;
+  color: white;
+}
 .about {
     padding: 5rem 2rem;
     max-width: 1200px;
