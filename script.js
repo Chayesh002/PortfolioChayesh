@@ -43,8 +43,8 @@ const projects = [
     {
         title: 'Project 2',
         description: 'Description of project 2',
-        media: 'profile2.jpg',
-        type: 'image',
+        media: 'harmony-project2.mp4',
+        type: 'video',
         link: '#'
     },
     {
