@@ -60,6 +60,13 @@ const projects = [
         media: 'harmony-project4.mp4',
         type: 'video',
         link: '#'
+    },
+      {
+        title: 'Custom Unity Package',
+        description: 'Developed a modular Unity package featuring the mining vehicle, structured for Git-based integration via Unity Package Manager (UPM). The package includes a clean prefab, optimised FBX model, physically-based materials, and all texture dependencies. Designed for industrial simulations, it supports scalable and plug-and-play deployment in Unity projects, demonstrating strong skills in asset packaging, prefab structuring, and UPM compatibility.',
+        media: 'harmony-project5.mp4',
+        type: 'video',
+        link: '#'
     }
 ];
 
