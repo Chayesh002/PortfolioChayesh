@@ -42,7 +42,7 @@ const projects = [
     },
     {
         title: 'Project 2',
-        description: 'Description of project 2',
+        description: 'This project involved the use of a shock tube to replicate and study the effects of explosive blast waves in a controlled environment. Key responsibilities included preparing the experimental setup, triggering high-pressure shock waves, and analysing material responses under dynamic loading. The project highlighted expertise in explosive testing, safety compliance, and data analysis related to high-speed shock phenomena.',
         media: 'harmony-project2.mp4',
         type: 'video',
         link: '#'
