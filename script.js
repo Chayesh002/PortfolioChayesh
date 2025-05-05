@@ -74,6 +74,20 @@ const projects = [
         media: 'harmony-project6.mp4',
         type: 'video',
         //link: '#'
+    },
+              {
+        title: 'Water Simulation Sandbox',
+        description: 'A small interactive scene where cubes drop into water, creating realistic splashes and ripples. Users can tweak everything from the time of day and water depth to reflection, distortion, and even the colour of the water — all through a simple control panel. A fun way to explore real-time physics and visual effects!',
+        media: 'harmony-project7.mp4',
+        type: 'video',
+        //link: '#'
+    },
+              {
+        title: 'Free-Roam Ocean Experience',
+        description: 'This is an interactive ocean environment I created, where you can freely navigate a boat across dynamic, reactive water. The scene features natural rock formations and a control panel to adjust settings like lighting, depth, transparency, reflection, wave direction, and water colour. It showcases my work in real-time environments, physics, and visual customisation.',
+        media: 'harmony-project8.mp4',
+        type: 'video',
+        //link: '#'
     }
 ];
 
