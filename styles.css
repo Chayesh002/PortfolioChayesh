@@ -158,7 +158,12 @@ body {
 .project-info {
     padding: 1.5rem;
 }
-
+.project-video {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 1px solid #ddd;
+}
 /* Contact section */
 .contact {
     padding: 5rem 2rem;
