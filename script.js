@@ -34,7 +34,7 @@ type();
 // Project data
 const projects = [
     {
-        title: 'Project 1',
+        title: 'Harmony',
         description: 'Description of project 1',
         image: 'Profile Picture',
         link: 'https://google.com'
