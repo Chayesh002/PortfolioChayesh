@@ -34,8 +34,8 @@ type();
 // Project data
 const projects = [
     {
-        title: 'Harmony',
-        description: 'Description of project 1',
+        title: 'Harmony Project – Toyota Bakkie Maintenance',
+        description: 'This project involved performing comprehensive maintenance on a Toyota bakkie to ensure optimal performance and reliability. Key tasks included diagnosing mechanical issues, conducting routine servicing, and implementing preventative measures to extend the vehicle’s lifespan. The project showcased practical skills in automotive care, attention to detail, and a methodical approach to problem-solving.',
         image: 'Profile Picture.jpeg',
         link: 'https://google.com'
     },
