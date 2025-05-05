@@ -62,16 +62,42 @@ const projectGrid = document.getElementById('projectGrid');
 projects.forEach(project => {
     const projectCard = document.createElement('div');
     projectCard.className = 'project-card';
-    
-    projectCard.innerHTML = `
-        <img src="${project.image}" alt="${project.title}">
-        <div class="project-info">
-            <h3>${project.title}</h3>
-            <p>${project.description}</p>
-            <a href="${project.link}" target="_blank">View Project</a>
-        </div>
-    `;
-    
+
+    let mediaElement;
+    if (project.type === 'video') {
+        mediaElement = document.createElement('video');
+        mediaElement.src = project.media;
+        mediaElement.controls = true;
+        mediaElement.muted = true;
+        mediaElement.playsInline = true;
+        mediaElement.classList.add('project-media');
+    } else {
+        mediaElement = document.createElement('img');
+        mediaElement.src = project.media;
+        mediaElement.alt = project.title;
+        mediaElement.classList.add('project-media');
+    }
+
+    const info = document.createElement('div');
+    info.classList.add('project-info');
+
+    const title = document.createElement('h3');
+    title.textContent = project.title;
+
+    const desc = document.createElement('p');
+    desc.textContent = project.description;
+
+    const link = document.createElement('a');
+    link.href = project.link;
+    link.target = '_blank';
+    link.textContent = 'View Project';
+
+    info.appendChild(title);
+    info.appendChild(desc);
+    info.appendChild(link);
+
+    projectCard.appendChild(mediaElement);
+    projectCard.appendChild(info);
     projectGrid.appendChild(projectCard);
 });
 
