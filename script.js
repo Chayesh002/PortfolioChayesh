@@ -42,7 +42,7 @@ const projects = [
     {
         title: 'Project 2',
         description: 'Description of project 2',
-        image: 'Profile Picture',
+        image: '/Profile Picture',
         link: '#'
     },
     {
