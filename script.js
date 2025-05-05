@@ -36,19 +36,22 @@ const projects = [
     {
         title: 'Harmony Project – Toyota Bakkie Maintenance',
         description: 'This project involved performing comprehensive maintenance on a Toyota bakkie to ensure optimal performance and reliability. Key tasks included diagnosing mechanical issues, conducting routine servicing, and implementing preventative measures to extend the vehicle’s lifespan. The project showcased practical skills in automotive care, attention to detail, and a methodical approach to problem-solving.',
-        image: 'Profile Picture.jpeg',
+        media: 'harmony-project.mp4',
+        type: 'video',
         link: 'https://google.com'
     },
     {
         title: 'Project 2',
         description: 'Description of project 2',
-        image: '/Profile Picture',
+        media: 'profile2.jpg',
+        type: 'image',
         link: '#'
     },
     {
         title: 'Project 3',
         description: 'Description of project 3',
-        image: 'Profile Picture',
+        media: 'profile3.jpg',
+        type: 'image',
         link: '#'
     }
 ];
