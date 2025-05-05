@@ -48,10 +48,10 @@ const projects = [
         link: '#'
     },
     {
-        title: 'Project 3',
-        description: 'Description of project 3',
-        media: 'profile3.jpg',
-        type: 'image',
+        title: 'Underground Mining POC',
+        description: 'This VR-based proof of concept was developed for Sandvik to simulate heavy machinery operations in a virtual mining environment. The interactive experience allowed users to engage with complex equipment procedures for training, safety demonstration, and operational planning. Built using Unity, the project showcased immersive 3D design, realistic physics, and intuitive user interactions—supporting Sandvik’s push toward innovative, tech-driven workforce development.',
+        media: 'harmony-project3.mp4',
+        type: 'video',
         link: '#'
     }
 ];
