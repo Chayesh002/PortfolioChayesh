@@ -91,12 +91,6 @@ body {
     margin-bottom: 3rem;
 }
 
-.about-content {
-    display: flex;
-    gap: 2rem;
-    align-items: center;
-}
-
 .profile-pic {
     border-radius: 50%;
     width: 200px;
@@ -110,8 +104,6 @@ body {
     list-style: none;
     margin-top: 1rem;
 }
-
-
 
 .skill-list li {
     background-color: #333;
