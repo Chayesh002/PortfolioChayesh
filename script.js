@@ -130,7 +130,7 @@ projects.forEach(project => {
     desc.textContent = project.description;
 
     const link = document.createElement('a');
-    //link.href = project.link;
+    //link.href = project.link; 
     link.target = '_blank';
     link.textContent = 'View Project';
 
