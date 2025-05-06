@@ -87,7 +87,7 @@ const projects = [
         description: 'This is an interactive ocean environment I created, where you can freely navigate a boat across dynamic, reactive water. The scene features natural rock formations and a control panel to adjust settings like lighting, depth, transparency, reflection, wave direction, and water colour. It showcases my work in real-time environments, physics, and visual customisation.',
         media: 'harmony-project8.mp4',
         type: 'video',
-        //link: '#'
+    
     }
 ];
 
