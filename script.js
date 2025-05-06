@@ -88,6 +88,13 @@ const projects = [
         media: 'harmony-project8.mp4',
         type: 'video',
     
+    },
+             {
+        title: 'Driving Simulation Project',
+        description: 'An immersive Unity-based driving simulator featuring free-roam exploration, vehicle spawning, and AI competition. Players can switch between different vehicles and explore a detailed open map while hunting down and racing against an AI-controlled car that loops the environment. The project showcases mechanics such as real-time vehicle control, AI pathfinding, and interactive world design.',
+        media: 'harmony-project9.mp4',
+        type: 'video',
+    
     }
 ];
 
