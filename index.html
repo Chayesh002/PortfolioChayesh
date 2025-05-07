@@ -59,12 +59,15 @@
     <section id="contact" class="contact">
         <h2>Contact Me</h2>
         <div class="contact-content">
-            <form id="contactForm">
-                <input type="text" placeholder="Name" required>
-                <input type="email" placeholder="Email" required>
-                <textarea placeholder="Message" required></textarea>
-                <button type="submit">Send Message</button>
-            </form>
+            <form id="contactForm" action="https://formsubmit.co/your@email.com" method="POST">
+    <input type="text" name="name" placeholder="Name" required>
+    <input type="email" name="email" placeholder="Email" required>
+    <textarea name="message" placeholder="Message" required></textarea>
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_next" value="https://chayesh002.github.io/PortfolioChayesh/thankyou.html">
+    <button type="submit">Send Message</button>
+</form>
+
         </div>
     </section>
 
