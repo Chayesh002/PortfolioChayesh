@@ -95,6 +95,13 @@ const projects = [
         media: 'harmony-project9.mp4',
         type: 'video',
     
+    },
+                 {
+        title: 'Octopus AR Demo – Image Tracking Experience',
+        description: 'This augmented reality demo uses image tracking to anchor an animated octopus to a real-world surface. Once the image is recognised, the octopus spawns at the correct position and plays a looping animation. Users can drag and place additional underwater assets like coral and sea plants, which snap to the tracked surface. The project demonstrates AR anchoring, interactive asset placement, and animation triggering in a responsive 3D environment.',
+        media: 'harmony-project10.mp4',
+        type: 'video',
+    
     }
 ];
 
