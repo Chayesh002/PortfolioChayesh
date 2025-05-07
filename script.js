@@ -35,14 +35,14 @@ type();
 const projects = [
     {
         title: 'Harmony Project – Toyota Bakkie Maintenance',
-        description: 'This project involved performing comprehensive maintenance on a Toyota bakkie to ensure optimal performance and reliability. Key tasks included diagnosing mechanical issues, conducting routine servicing, and implementing preventative measures to extend the vehicle’s lifespan. The project showcased practical skills in automotive care, attention to detail, and a methodical approach to problem-solving.',
+        description: 'This project involved performing comprehensive maintenance on a Toyota bakkie to ensure optimal performance and reliability. Key tasks included diagnosing mechanical issues, conducting routine servicing, and implementing preventative measures to extend the vehicle’s lifespan. The project showcased practical skills in automotive care and attention to detail',
         media: 'harmony-project.mp4',
         type: 'video',
         
     },
     {
         title: ' Shock Tube Project – Blast Wave Simulation ',
-        description: 'This project involved the use of a shock tube to replicate and study the effects of explosive blast waves in a controlled environment. Key responsibilities included preparing the experimental setup, triggering high-pressure shock waves, and analysing material responses under dynamic loading. The project highlighted expertise in explosive testing, safety compliance, and data analysis related to high-speed shock phenomena.',
+        description: 'This project involved the use of a shock tube to replicate and study the effects of explosive blast waves in a controlled environment. Key responsibilities included preparing the experimental setup, triggering high-pressure shock waves, and analysing material responses under dynamic loading. The project highlighted expertise in explosive testing, safety compliance and data analysis',
         media: 'harmony-project2.mp4',
         type: 'video',
        
@@ -63,7 +63,7 @@ const projects = [
     },
       {
         title: 'Custom Unity Package',
-        description: 'Developed a modular Unity package featuring the mining vehicle, structured for Git-based integration via Unity Package Manager (UPM). The package includes a clean prefab, optimised FBX model, physically-based materials, and all texture dependencies. Designed for industrial simulations, it supports scalable and plug-and-play deployment in Unity projects, demonstrating strong skills in asset packaging, prefab structuring, and UPM compatibility.',
+        description: 'Developed a modular Unity package featuring the mining vehicle. The package includes a clean prefab, optimised FBX model, physically-based materials, and all texture dependencies. Designed for industrial simulations, it supports scalable and plug-and-play deployment in Unity projects, demonstrating strong skills in asset packaging, prefab structuring, and UPM compatibility.',
         media: 'harmony-project5.mp4',
         type: 'video',
        
@@ -84,14 +84,14 @@ const projects = [
     },
               {
         title: 'Free-Roam Ocean Experience',
-        description: 'This is an interactive ocean environment I created, where you can freely navigate a boat across dynamic, reactive water. The scene features natural rock formations and a control panel to adjust settings like lighting, depth, transparency, reflection, wave direction, and water colour. It showcases my work in real-time environments, physics, and visual customisation.',
+        description: 'This is an interactive ocean environment, where you can freely navigate a boat across dynamic, reactive water. The scene features natural rock formations and a control panel to adjust settings like lighting, depth, transparency, reflection, wave direction, and water colour. It showcases my work in real-time environments, physics, and visual customisation.',
         media: 'harmony-project8.mp4',
         type: 'video',
     
     },
              {
         title: 'Driving Simulation Project',
-        description: 'An immersive Unity-based driving simulator featuring free-roam exploration, vehicle spawning, and AI competition. Players can switch between different vehicles and explore a detailed open map while hunting down and racing against an AI-controlled car that loops the environment. The project showcases mechanics such as real-time vehicle control, AI pathfinding, and interactive world design.',
+        description: 'An immersive Unity-based driving simulator featuring free-roam exploration, vehicle spawning, and AI competition. Players can switch between different vehicles and explore a detailed open map while hunting down and racing against an AI-controlled car that loops the environment. The project showcases mechanics such as real-time vehicle control, AI pathfinding, and interactive world design.(Unity project Revamp)',
         media: 'harmony-project9.mp4',
         type: 'video',
     
@@ -105,7 +105,7 @@ const projects = [
    // },
     {
         title: 'Unity Project Revamp',
-        description: 'Rescued and optimised a legacy Unity project by upgrading it to the latest compatible version. Identified and resolved critical bugs, restoring full functionality and improving performance.',
+        description: 'Rescued and optimised a legacy Unity project by upgrading it to the latest compatible version. Identified and resolved critical bugs, restoring full functionality and improving performance, pc -> mobile ',
         media: 'harmony-project11.mp4',
         type: 'video',
     
