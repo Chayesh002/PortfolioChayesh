@@ -96,13 +96,13 @@ const projects = [
         type: 'video',
     
     },
-    //             {
-    //    title: 'Octopus AR Demo – Image Tracking Experience',
-    //    description: 'This augmented reality demo uses image tracking to anchor an animated octopus to a real-world surface. Once the image is recognised, the octopus spawns at the correct position and plays a looping animation. Users can drag and place additional underwater assets like coral and sea plants, which snap to the tracked surface. The project demonstrates AR anchoring, interactive asset placement, and animation triggering in a responsive 3D environment.',
-     //   media: 'harmony-project10.mp4',
-    //    type: 'video',
+                 {
+        title: 'Octopus AR Demo – Image Tracking Experience',
+        description: 'This augmented reality demo uses image tracking to anchor a playful, animated sea creature to a real-world surface. When the target image is detected, the squid appears in 3D, performing a looping animation. Users can interact by placing underwater assets like coral and plants, which snap to the scene—showcasing marker-based AR, animation, and interactive asset placement in an engaging, immersive environment.',
+        media: 'harmony-project10.mp4',
+        type: 'video',
     
-   // },
+    },
     {
         title: 'Unity Project Revamp',
         description: 'Rescued and optimised a legacy Unity project by upgrading it to the latest compatible version. Identified and resolved critical bugs, restoring full functionality and improving performance, pc -> mobile ',
