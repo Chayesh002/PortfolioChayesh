@@ -111,9 +111,9 @@ const projects = [
     
     },
     {
-        title: 'Octopus AR Demo – Image Tracking Experience',
-        description: 'This augmented reality demo uses image tracking to anchor an animated octopus to a real-world surface. Once the image is recognised, the octopus spawns at the correct position and plays a looping animation. Users can drag and place additional underwater assets like coral and sea plants, which snap to the tracked surface. The project demonstrates AR anchoring, interactive asset placement, and animation triggering in a responsive 3D environment.',
-        media: 'harmony-project10.mp4',
+        title: 'PC Training Simulation ',
+        description: 'A desktop-based training application built from scratch, adapted from a previous VR version. This immersive simulation guides users through essential pre-operation safety checks and the operation of heavy mining machinery, aligning with real-world industrial standards. Featuring custom scripting for user input, scenario progression, and feedback systems, it delivers interactive learning that reinforces critical safety protocols and equipment handling. ',
+        media: 'harmony-project12.mp4',
         type: 'video',
     
     }
