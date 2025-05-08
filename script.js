@@ -49,7 +49,7 @@ const projects = [
     },
     {
         title: 'Sandvik POC Project – PC Training SimulationC',
-        description: 'This PC-based proof of concept was developed for Sandvik to simulate heavy machinery operations in a mining environment. The interactive experience allowed users to engage with complex equipment procedures for training, safety demonstration, and operational planning. Built using Unity, the project showcased immersive 3D design, realistic physics, and intuitive user interactions—supporting Sandvik’s push toward innovative, tech-driven workforce development.',
+        description: 'Developed a VR mining training simulation and assisted with real-world explosive testing using a shock tube. Focused on terrain analysis, blast effects, and safety protocols.',
         media: 'harmony-project3.mp4',
         type: 'video',
      
@@ -84,7 +84,7 @@ const projects = [
     },
               {
         title: 'Free-Roam Ocean Experience',
-        description: 'This is an interactive ocean environment, where you can freely navigate a boat across dynamic, reactive water. The scene features natural rock formations and a control panel to adjust settings like lighting, depth, transparency, reflection, wave direction, and water colour. It showcases my work in real-time environments, physics, and visual customisation.',
+        description: 'An interactive boat experience on dynamic water, featuring real-time controls for lighting, waves, and visuals—showcasing physics, environment design, and visual customisation..',
         media: 'harmony-project8.mp4',
         type: 'video',
     
