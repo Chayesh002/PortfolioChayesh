@@ -98,7 +98,7 @@ const projects = [
     },
                  {
         title: 'Octopus AR Demo – Image Tracking Experience',
-        description: 'This augmented reality demo uses image tracking to anchor a playful, animated sea creature to a real-world surface. When the target image is detected, the squid appears in 3D, performing a looping animation. Users can interact by placing underwater assets like coral and plants, which snap to the scene—showcasing marker-based AR, animation, and interactive asset placement in an engaging, immersive environment.',
+        description: 'This augmented reality demo uses image tracking to bring a playful 3D squid to life. When the target image is scanned, the squid appears with looping animations, and users can place underwater assets like coral, creating an interactive and immersive scene that blends digital content with the real world.',
         media: 'harmony-project10.mp4',
         type: 'video',
     
