@@ -56,7 +56,7 @@ const projects = [
     },
     {
         title: ' WebGL Emulator Project',
-        description: 'This project is a Unity-based WebGL launcher designed to load multiple applications from a single interface. It uses a JSON configuration file to dynamically display buttons that launch individual WebGL builds. The system is lightweight, modular, and ideal for offline use, such as on MoodleBox devices. It demonstrates effective use of Unity UI, JSON parsing, and WebGL deployment strategies for scalable content delivery.',
+        description: 'This Unity-based WebGL launcher loads multiple applications from a single interface, using a JSON configuration file to dynamically generate launch buttons. Each linked project has been revamped and updated for improved performance and compatibility. The system is lightweight and modular. It showcases efficient Unity UI design, JSON parsing, and scalable WebGL deployment strategies.',
         media: 'harmony-project4.mp4',
         type: 'video',
       
